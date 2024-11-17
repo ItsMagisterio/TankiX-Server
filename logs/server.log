@@ -1,0 +1,7 @@
+[14:52:18.929] [tx.server.resources.ResourceManager/INFO]: Runtime resources root: src\main\resources\data
+[14:52:19.251] [ktor.application/INFO]: Autoreload is disabled because the development mode is off.
+[14:52:19.329] [ktor.application/INFO]: Application started in 0.117 seconds.
+[14:52:19.329] [ktor.application/INFO]: Application started: io.ktor.server.application.Application@71c27ee8
+[14:52:19.642] [ktor.application/INFO]: Responding at http://0.0.0.0:8080
+[14:52:19.644] [tx.server.network.config.ConfigServer/INFO]: Started config server
+[14:52:19.665] [tx.server.network.GameServer/INFO]: Started game server at /[0:0:0:0:0:0:0:0]:5050

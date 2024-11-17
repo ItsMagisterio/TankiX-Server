@@ -1,0 +1,7 @@
+package tx.server.ecs.entities.templates.hulls.user
+
+import tx.server.ecs.entities.templates.IEntityTemplate
+import tx.server.protocol.ProtocolId
+
+@ProtocolId(1469607958560)
+class HullSkinUserItemTemplate : IEntityTemplate
